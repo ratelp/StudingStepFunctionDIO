@@ -1,7 +1,7 @@
 # StudingStepFunctionDIO
 Este repositório é para conclusão do curso da DIO sobre step function, onde nele será descrito como utilizar a funcionalidade e sobre o que aprendi.
 
-Step Functions é um serviço disponbilizado pela AWS (Amazon Web Services) com o objetivo de orquestrar um workflow (fluxo de trabalho de maneira visual e dinâmica, podendo automatizar processos.
+Step Functions é um serviço disponbilizado pela AWS (Amazon Web Services) com o objetivo de orquestrar um workflow (fluxo de trabalho) de maneira visual e dinâmica, podendo automatizar processos.
 
 Os principais usos do Step Functions:
 
